@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
