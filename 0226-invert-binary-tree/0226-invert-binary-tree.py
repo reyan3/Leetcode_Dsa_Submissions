@@ -7,14 +7,13 @@
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         if not root:
-            return None #edge case
-
-        # swap the root right and left
+            return None
+         # REVERSE THE NODES
         temp = root.left
         root.left = root.right
         root.right = temp
 
-        # use recursion for DFS 
-        self.invertTree(root.left) #first go to left parent
-        self.invertTree(root.right) #after that go to right parent
-        return root #return inverted root
+        #DFS
+        self.invertTree(root.left)
+        self.invertTree(root.right)
+        return root
