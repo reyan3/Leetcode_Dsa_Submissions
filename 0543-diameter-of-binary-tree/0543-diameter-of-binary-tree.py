@@ -11,13 +11,13 @@ class Solution:
         def height(root):
             if not root:
                 return 0
+            
+            l = height(root.left)
+            r = height(root.right)
 
-            left = height(root.left)
-            right = height(root.right)
+            self.maxi = max(self.maxi , l+r)
 
-            self.maxi = max(self.maxi, left + right)
-
-            return 1 + max(left,right) 
+            return 1 + max(l,r)
         
         height(root)
         return self.maxi
