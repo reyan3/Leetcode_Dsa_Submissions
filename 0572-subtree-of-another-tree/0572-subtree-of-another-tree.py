@@ -7,7 +7,6 @@
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         
-        # check for the same tree 
         def sameTree(p,q):
             if not p and not q:
                 return True
@@ -16,14 +15,12 @@ class Solution:
             if p.val != q.val:
                 return False
             
-            return (sameTree(p.left,q.left) and sameTree(p.right , q.right))
+            return (sameTree(p.left,q.left) and sameTree(p.right,q.right))
         
         if not root:
             return False
         
-        # if sameTree is found == True
-        if sameTree(root, subRoot):
+        if sameTree(root,subRoot):
             return True
         
-        # if not then move both left and right without moving subroot
-        return (self.isSubtree(root.left,subRoot) or self.isSubtree(root.right , subRoot))
+        return (self.isSubtree(root.left,subRoot) or self.isSubtree(root.right,subRoot))
