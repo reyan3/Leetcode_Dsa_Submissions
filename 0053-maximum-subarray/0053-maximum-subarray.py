@@ -3,9 +3,8 @@ class Solution:
         maxi = nums[0]
         sum = 0
 
-
         for i in range(len(nums)):
-            sum+=nums[i]
+            sum += nums[i]
 
             maxi = max(maxi , sum)
 
