@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0125-valid-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
