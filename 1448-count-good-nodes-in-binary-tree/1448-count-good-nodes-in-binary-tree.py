@@ -6,20 +6,27 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        self.cnt = 0 
-        # Store maximum and then count values which are greater than maximum
-        def count(root,maxi):
+        self.cnt = 0
+
+        def cntGood(root,maxi):
+
             if not root:
-                return None
-            
+                return 0
+
             if root.val >= maxi:
-                self.cnt += 1
+                self.cnt+=1
             
             maxi = max(maxi , root.val)
 
-            count(root.left, maxi)
-            count(root.right, maxi)
+            cntGood(root.left , maxi)
+            cntGood(root.right , maxi)
         
-        count(root,root.val)
+        cntGood(root , root.val)
+
         return self.cnt
+        
+
+        
+        
+        
         
