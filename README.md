@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0110-balanced-binary-tree) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0704-binary-search) |
