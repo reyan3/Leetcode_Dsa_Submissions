@@ -7,26 +7,20 @@
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
         self.cnt = 0
+        maxi = 0
 
-        def cntGood(root,maxi):
-
+        def countVal(root, maxi):
             if not root:
                 return 0
-
+            
             if root.val >= maxi:
-                self.cnt+=1
+                self.cnt += 1
             
             maxi = max(maxi , root.val)
 
-            cntGood(root.left , maxi)
-            cntGood(root.right , maxi)
+            countVal(root.left , maxi)
+            countVal(root.right , maxi)
         
-        cntGood(root , root.val)
-
+        countVal(root , root.val)
+        
         return self.cnt
-        
-
-        
-        
-        
-        
