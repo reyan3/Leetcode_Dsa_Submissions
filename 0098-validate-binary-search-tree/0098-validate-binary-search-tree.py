@@ -10,9 +10,11 @@ class Solution:
             if not root:
                 return True
             
-            if root.val <= mini or root.val >= maxi:
+            if root.val <= mini  or root.val >= maxi:
                 return False
             
-            return (validate(root.left , mini , root.val) and validate(root.right , root.val , maxi))
+            return (validate(root.left , mini , root.val) and
+            validate(root.right , root.val , maxi))
         
+
         return validate(root , -inf , inf)
