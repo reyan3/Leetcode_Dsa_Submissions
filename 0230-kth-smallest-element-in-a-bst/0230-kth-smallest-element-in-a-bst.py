@@ -10,16 +10,15 @@ class Solution:
 
         while True:
 
-            # run loop till the leftmost leaf node 
             while root:
                 stack.append(root)
                 root = root.left
             
-            # remove smallest one
             root = stack.pop()
             k-=1
 
-            if k == 0:
+            if k==0:
                 return root.val
             
             root = root.right
+        
