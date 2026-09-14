@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0226-invert-binary-tree) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0226-invert-binary-tree) |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0283-move-zeroes) |
