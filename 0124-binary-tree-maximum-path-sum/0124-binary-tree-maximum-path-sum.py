@@ -12,13 +12,14 @@ class Solution:
             if not root:
                 return 0
             
-            left = max(0, totalSum(root.left))
+            left = max(0 , totalSum(root.left))
             right = max(0 , totalSum(root.right))
 
             self.maxi = max(self.maxi , root.val + left + right)
 
-            return root.val + max(left , right)
+            return root.val + max(left,right)
         
         totalSum(root)
-        
+    
         return self.maxi
+        
