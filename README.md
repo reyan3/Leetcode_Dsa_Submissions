@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -109,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/reyan3/Leetcode_Dsa_Submissions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
