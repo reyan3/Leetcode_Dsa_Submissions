@@ -5,22 +5,22 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isBalanced(self, root: Optional[TreeNode]) -> bool:
-
-        def dot(root):
+    def isBalanced(self, root: TreeNode | None) -> bool:
+        def depth(root):
             if not root:
                 return 0
-
-            l = dot(root.left)
+            
+            l = depth(root.left)
             if l == -1:
                 return -1
-            r = dot(root.right)
+            
+            r = depth(root.right)
             if r == -1:
                 return -1
-
+            
             if abs(l - r) > 1:
                 return -1
-
-            return 1 + max(l, r)
-
-        return dot(root) != -1
+            
+            return 1 + max(l,r)
+        
+        return depth(root) != -1
