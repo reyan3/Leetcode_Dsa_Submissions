@@ -5,10 +5,9 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+    def rightSideView(self, root: TreeNode | None) -> list[int]:
         if not root:
             return []
-            
         q = deque([root])
         res = []
 
@@ -16,7 +15,6 @@ class Solution:
             n = len(q)
 
             for i in range(n):
-
                 node = q.popleft()
 
                 if node.right:
@@ -27,5 +25,5 @@ class Solution:
                 
                 if i==0:
                     res.append(node.val)
-            
+        
         return res
