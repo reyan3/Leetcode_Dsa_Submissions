@@ -6,21 +6,20 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        self.cnt = 0
-        maxi = 0
-
-        def countVal(root, maxi):
+        self.c = 0
+        # Here imp is that the maxi isnt global thus the maxi is always diiferent of left and right subtree!
+        def counting(root,maxi):
             if not root:
-                return 0
+                return
             
             if root.val >= maxi:
-                self.cnt += 1
+                self.c+=1
             
             maxi = max(maxi , root.val)
+            
+            counting(root.left , maxi)
+            counting(root.right, maxi)
+        
+        counting(root, root.val)
 
-            countVal(root.left , maxi)
-            countVal(root.right , maxi)
-        
-        countVal(root , root.val)
-        
-        return self.cnt
+        return self.c
