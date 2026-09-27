@@ -15,11 +15,10 @@ class Solution:
             left = max(0 , totalSum(root.left))
             right = max(0 , totalSum(root.right))
 
-            self.maxi = max(self.maxi , root.val + left + right)
+            self.maxi = max(self.maxi , root.val+left+right)
 
             return root.val + max(left,right)
         
         totalSum(root)
-    
+
         return self.maxi
-        
